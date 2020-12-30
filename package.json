@@ -1,0 +1,21 @@
+{
+  "name": "webauthn-snippets",
+  "version": "1.0.0",
+  "description": "Set of webauthn snippets, samples and code examples",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebAuthnWorks/webauthn-snippets.git"
+  },
+  "author": "Yuriy Ackermann <yuriy@webauthn.works>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebAuthnWorks/webauthn-snippets/issues"
+  },
+  "homepage": "https://github.com/WebAuthnWorks/webauthn-snippets#readme",
+  "dependencies": {
+    "@lapo/asn1js": "^1.2.1",
+    "base64url": "^3.0.1",
+    "cbor": "^5.1.0",
+    "jsrsasign": "^10.1.4"
+  }
+}
